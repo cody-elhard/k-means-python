@@ -12,6 +12,7 @@ numpy = "*"
 pandas = "*"
 notebook = "*"
 jupyter = "*"
+scipy = "*"
 
 [requires]
 python_version = "3.7"
